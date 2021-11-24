@@ -1,5 +1,5 @@
 # Ujian Tengah Semester (Sistem Administrasi Server)
-
+&nbsp;
 ###### Muhamad Iqbal Maulana 1202190023 IT-02-02
 
 
@@ -11,6 +11,7 @@
 - Lalu Tentukan Ukuran Memori**(1040 MB)**, Pilih Jenis Hardisk**(VDI)**, Ukuran Hardisk**(20 GB)**, Pilih Tempat Penyimpanan Project Tersebut.
 
 ![image1](https://github.com/miqbalm01/Sistem-Administrasi-Server/blob/main/UTS1/assets/image1.png)
+
 
 
 
